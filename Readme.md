@@ -6,7 +6,7 @@ This project demonstrates a simple ROS2 application using the TurtleSim package.
 - [What is this Project](#what-is-this-project)
 - [What I Learnt from this Project](#what-i-learnt-from-this-project)
 - [Concepts Used in this Project](#concepts-used-in-this-project)
-- [How to clone and use this repo -- ](#How to clone and use this repo -- )
+- [How to clone and use this repo](#How to clone and use this repo -- )
 
 
 
@@ -33,7 +33,7 @@ Through this project, I have learnt:
 - **Teleoperation**: Controlling the turtle using keyboard inputs.
 - **Autonomous Behavior**: Programming the second turtle to follow the first turtle based on its position.
 
-## How to clone and use this repo -- 
+## How to clone and use this repo
 
 1. **Make a Ros_ws and clone it**: 
 
