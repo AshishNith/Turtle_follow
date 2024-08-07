@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ashish/Projects_ROS/build/turtle_border",
+        "/home/ashish/Projects_ROS/install/turtle_border/lib/python3.10/site-packages",
+        "/home/ashish/Projects_ROS/build/arduino_teleop",
+        "/home/ashish/Projects_ROS/install/arduino_teleop/lib/python3.10/site-packages",
+        "/home/ashish/ashish_ws/install/turtlesim_follow/lib/python3.10/site-packages",
+        "/home/ashish/ros2_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/home/ashish/ros2_ws/install/linkattacher_msgs/local/lib/python3.10/dist-packages",
+        "/home/ashish/ros2_ws/install/ebot_docking/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
