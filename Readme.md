@@ -6,7 +6,7 @@ This project demonstrates a simple ROS2 application using the TurtleSim package.
 - [What is this Project](#what-is-this-project)
 - [What I Learnt from this Project](#what-i-learnt-from-this-project)
 - [Concepts Used in this Project](#concepts-used-in-this-project)
-- [How to clone and use this repo](#How to clone and use this repo -- )
+- [How to clone and use this repo](#How-to-clone-and-use-this-repo)
 
 
 
