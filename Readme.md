@@ -39,7 +39,7 @@ Through this project, I have learnt:
 
 2. **Set up your ROS2 workspace**:
    ```sh
-
+   #Create a workspace   
 
    mkdir -p ~/ros2_ws/src
    cd ~/ros2_ws
